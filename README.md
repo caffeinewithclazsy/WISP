@@ -125,22 +125,22 @@ Through this project, I explored:
 
 ## 🔋 WISP Portable Device
 
-<img src="Images/Image/Image%201.jpeg" width="500"/>
+<img src="Images/Image/Image1 .jpeg" width="500"/>
 
 
 
 ## 📡 WISP Dashboard Device
 
-<img src="Images/Image/Image%202.jpeg" width="500"/>
+<img src="Images/Image/Image2 .jpeg" width="500"/>
 
 ## 🖥 Dashboard Screenshot
 
-<img src="Images/ScreenShot/wisp(screenshot_dashboard_1_).png" width="700"/>
+<img src="Images/ScreenShot/wisp(screenshot_dashborad_1_).png" width="700"/>
 
 
 ## 🌐 Live Dashboard View
 
-<img src="Images/ScreenShot/wisp(screenshot_dashboard_2_).png" width="700"/>
+<img src="Images/ScreenShot/wisp(screenshot_dashborad_2_).png" width="700"/>
 
 ## 🔌 Circuit Diagram
 
