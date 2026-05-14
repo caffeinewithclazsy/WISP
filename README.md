@@ -8,9 +8,9 @@
 
 # 📌 Project Overview
 
-WISP is a portable WiFi scanning and monitoring device built using an ESP32, rechargeable battery setup, and physical power switch.
+WISP is a portable WiFi scanning and monitoring device built using an ESP32, rechargeable battery setup, and a physical power switch.
 
-The project transforms the ESP32 into a standalone wireless scanning system that hosts a live cyber-style web dashboard for monitoring nearby WiFi networks in real time.
+The project transforms the ESP32 into a standalone wireless scanning system capable of hosting a live cyber-style web dashboard for monitoring nearby WiFi networks in real time.
 
 The device scans surrounding networks and displays:
 
@@ -23,17 +23,15 @@ The device scans surrounding networks and displays:
 
 The system is fully portable and operates wirelessly using battery power, making it a compact handheld network analysis tool.
 
-
 # 🎯 Project Objective
 
-The main goal of WISP was to create a lightweight and portable WiFi analyzer capable of:
+The main objective of WISP was to create a lightweight and portable WiFi analyzer capable of:
 
 - Scanning nearby wireless networks
 - Visualizing network strength
 - Monitoring WiFi channels
 - Hosting a responsive dashboard directly from the ESP32
 - Operating independently using portable battery power
-
 
 
 # 🚀 Features
@@ -50,8 +48,6 @@ The main goal of WISP was to create a lightweight and portable WiFi analyzer cap
 - Auto-refreshing webpage
 - Lightweight embedded web server
 
-
-
 # 🛠 Hardware Components
 
 - ESP32 Development Board
@@ -60,8 +56,6 @@ The main goal of WISP was to create a lightweight and portable WiFi analyzer cap
 - USB Cable
 - Jumper Wires
 
-
-
 # 💻 Software & Technologies Used
 
 - Arduino IDE
@@ -69,8 +63,6 @@ The main goal of WISP was to create a lightweight and portable WiFi analyzer cap
 - HTML/CSS
 - ESP32 WiFi Library
 - WebServer Library
-
-
 
 # ⚙️ Working Principle
 
@@ -83,7 +75,6 @@ The main goal of WISP was to create a lightweight and portable WiFi analyzer cap
 7. The webpage refreshes automatically to provide updated network information.
 
 
-
 # 📊 Dashboard Information
 
 The WISP dashboard displays:
@@ -94,9 +85,7 @@ The WISP dashboard displays:
 - Number of Detected Networks
 - Signal Quality Visualization
 - Channel Distribution Analysis
-- Security Status of Nearby Networks
-
-
+- Security Status of Nearby Network
 
 # 🎨 UI Design
 
@@ -108,8 +97,6 @@ The dashboard uses a cyber-inspired interface with:
 - Live signal bars
 - Dark-themed futuristic design
 
-
-
 # 🔋 Portable Design
 
 WISP was designed as a portable standalone device using:
@@ -120,8 +107,6 @@ WISP was designed as a portable standalone device using:
 - Compact ESP32-based architecture
 
 This allows the system to operate without requiring a continuous USB connection.
-
-
 
 # 🧠 Learning Outcomes
 
@@ -136,91 +121,45 @@ Through this project, I explored:
 - IoT dashboard development
 
 
-
-# 🔮 Future Improvements
-
-Planned upgrades for WISP include:
-
-- OLED display integration
-- GPS-based network mapping
-- SD card data logging
-- Advanced signal graphs
-- Packet monitoring
-- Mobile application support
-- Historical network storage
-
-
-
-# 📷 Project Images
-
 # 📷 Project Images
 
 ## 🔋 WISP Portable Device
 
-![WISP Device](Images/Image/Image1%201.jpeg)
+<img src="Images/Image/Image%201.jpeg" width="500"/>
 
 
 
 ## 📡 WISP Dashboard Device
 
-![WISP Dashboard](Images/Image/Image2%202.jpeg)
-
-
+<img src="Images/Image/Image%202.jpeg" width="500"/>
 
 ## 🖥 Dashboard Screenshot
 
-![Dashboard Screenshot](Images/ScreenShot/wisp$begin:math:text$screenshot\_dashboard\_1\_$end:math:text$.png)
+<img src="Images/ScreenShot/wisp(screenshot_dashboard_1_).png" width="700"/>
 
 
 ## 🌐 Live Dashboard View
 
-![Live Dashboard](Images/ScreenShot/wisp$begin:math:text$screenshot\_dashboard\_2\_$end:math:text$.png)
-
+<img src="Images/ScreenShot/wisp(screenshot_dashboard_2_).png" width="700"/>
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](Images/circuit%20diagram/wisp.png)
-## Arduino IDE Setup
-
-Arduino IDE
-
-
-
-## GitHub README Preview
-
-GitHub Preview
-
-
+<img src="Images/circuit%20diagram/wisp.png" width="500"/>
 
 # 📁 Project Structure
-WISP/
-│
-├── WISP.ino
-├── README.md
-│
-├── Images/
-│   ├── circuit diagram/
-│   │    └── wisp.png
-│   │
-│   ├── Image/
-│   │    ├── Image 1.jpeg
-│   │    └── Image 2.jpeg
-│   │
-│   └── ScreenShot/
-│        ├── wisp(screenshot_dashboard_1_).png
-│        └── wisp(screenshot_dashboard_2_).png
+
+bash WISP/ │ ├── WISP.ino ├── README.md │ ├── Images/ │   ├── circuit diagram/ │   │    └── wisp.png │   │ │   ├── Image/ │   │    ├── Image 1.jpeg │   │    └── Image 2.jpeg │   │ │   └── ScreenShot/ │        ├── wisp(screenshot_dashboard_1_).png │        └── wisp(screenshot_dashboard_2_).png 
 
 
 # ▶️ How To Run
 
-1. Open the project in Arduino IDE
-2. Install ESP32 board package
-3. Select the correct ESP32 board
-4. Upload WISP.ino
-5. Power the ESP32 using battery or USB
-6. Connect to the WISP WiFi hotspot
-7. Open the IP shown in Serial Monitor
-
+1. Open the project in Arduino IDE  
+2. Install the ESP32 board package  
+3. Select the correct ESP32 board  
+4. Upload WISP.ino  
+5. Power the ESP32 using battery or USB  
+6. Connect to the WISP WiFi hotspot  
+7. Open the IP shown in the Serial Monitor  
 
 
 # 📡 Example Access
@@ -232,17 +171,14 @@ Open browser:
 bash 192.168.4.1 
 
 
-
 # 📌 Conclusion
 
 WISP demonstrates how an ESP32 can be transformed into a portable wireless monitoring tool with real-time network analysis and an interactive web interface.
 
 The project combines embedded systems, networking, IoT, and frontend dashboard design into a compact portable cybersecurity-style device.
 
-
-
 # 👨‍💻 Author
 
 Developed by: caffeinewithclazsy
 
-GitHub: https://github.com/caffeinewithclazsy
+GitHub: https://github.com/caffeinewithcla
