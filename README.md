@@ -153,6 +153,33 @@ Planned upgrades for WISP include:
 
 # 📷 Project Images
 
+# 📷 Project Images
+
+## 🔋 WISP Portable Device
+
+![WISP Device](Images/Image/Image1%201.jpeg)
+
+
+
+## 📡 WISP Dashboard Device
+
+![WISP Dashboard](Images/Image/Image2%202.jpeg)
+
+
+
+## 🖥 Dashboard Screenshot
+
+![Dashboard Screenshot](Images/ScreenShot/wisp$begin:math:text$screenshot\_dashboard\_1\_$end:math:text$.png)
+
+
+## 🌐 Live Dashboard View
+
+![Live Dashboard](Images/ScreenShot/wisp$begin:math:text$screenshot\_dashboard\_2\_$end:math:text$.png)
+
+
+## 🔌 Circuit Diagram
+
+![Circuit Diagram](Images/circuit%20diagram/wisp.png)
 ## Arduino IDE Setup
 
 Arduino IDE
@@ -166,9 +193,22 @@ GitHub Preview
 
 
 # 📁 Project Structure
-
-bash WISP/ │ ├── WISP.ino ├── README.md │ ├── images/ │   ├── arduino_setup.png │   └── github_preview.png │ └── docs/ 
-
+WISP/
+│
+├── WISP.ino
+├── README.md
+│
+├── Images/
+│   ├── circuit diagram/
+│   │    └── wisp.png
+│   │
+│   ├── Image/
+│   │    ├── Image 1.jpeg
+│   │    └── Image 2.jpeg
+│   │
+│   └── ScreenShot/
+│        ├── wisp(screenshot_dashboard_1_).png
+│        └── wisp(screenshot_dashboard_2_).png
 
 
 # ▶️ How To Run
