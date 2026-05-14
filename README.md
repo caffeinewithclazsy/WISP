@@ -125,13 +125,13 @@ Through this project, I explored:
 
 ## 🔋 WISP Portable Device
 
-<img src="Images/Image/Image1 .jpeg" width="500"/>
+<img src="Images/Image/Image1.jpeg" width="500"/>
 
 
 
 ## 📡 WISP Dashboard Device
 
-<img src="Images/Image/Image2 .jpeg" width="500"/>
+<img src="Images/Image/Image2.jpeg" width="500"/>
 
 ## 🖥 Dashboard Screenshot
 
